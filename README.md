@@ -45,10 +45,10 @@
 ## In the Future
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-# Stats
-![Overview](https://github-readme-stats.vercel.app/api?username={username})
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Boombabyyyyy})
+
 <!---
+
+# Stats
 ![Overview](https://github.com/Boombabyyyyy/github-stats/blob/master/generated/overview.svg)
 
 ![Top Langs](https://github.com/Boombabyyyyy/github-stats/blob/master/generated/languages.svg)
